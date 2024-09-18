@@ -1,0 +1,648 @@
+{
+    "name" : "COURSE_NAME",
+    "cost" : 1000,
+    "sections" : [
+        {
+            "title" : "SECTION_TITLE",
+            "content" : [
+                {
+                    "type" : "reading",
+                    "content" : "TEXT_CONTENT",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "YOUTUBE_LINK",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "YOUTUBE_LINK",
+                    "isComplete" : false
+                }
+            ],
+            "quiz" : [
+                {
+                    "number" : 1,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 2,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 3,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 4,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 5,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 6,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 7,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 8,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 9,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 10,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                }
+            ],
+            "quizAnswer" : {
+                "1" : "?",
+                "2" : "?",
+                "3" : "?",
+                "4" : "?",
+                "5" : "?",
+                "6" : "?",
+                "7" : "?",
+                "8" : "?",
+                "9" : "?",
+                "10" : "?"
+            }
+        },
+        {
+            "title" : "SECTION_TITLE",
+            "content" : [ 
+                {
+                    "type" : "reading",
+                    "content" : "TEXT_CONTENT",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "YOUTUBE_LINK",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "YOUTUBE_LINK",
+                    "isComplete" : false
+                }
+            ],
+            "quiz" : [
+                {
+                    "number" : 1,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 2,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 3,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 4,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 5,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 6,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 7,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 8,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 9,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 10,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                }
+            ],
+            "quizAnswer" : {
+                "1" : "?",
+                "2" : "?",
+                "3" : "?",
+                "4" : "?",
+                "5" : "?",
+                "6" : "?",
+                "7" : "?",
+                "8" : "?",
+                "9" : "?",
+                "10" : "?"
+            }
+        },
+        {
+            "title" : "SECTION_TITLE",
+            "content" : [
+                {
+                    "type" : "reading",
+                    "content" : "TEXT_CONTENT",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "YOUTUBE_LINK",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "YOUTUBE_LINK",
+                    "isComplete" : false
+                }
+            ],
+            "quiz" : [
+                {
+                    "number" : 1,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 2,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 3,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 4,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 5,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 6,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 7,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 8,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 9,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 10,
+                    "questions" : "QUESTION",
+                    "options" : [
+                        {
+                            "A" : "OPTION"
+                        },
+                        {
+                            "B" : "OPTION"
+                        },
+                        {
+                            "C" : "OPTION"
+                        },
+                        {
+                            "D" : "OPTION"
+                        }
+                    ] 
+                }
+            ],
+            "quizAnswer" : {
+                "1" : "?",
+                "2" : "?",
+                "3" : "?",
+                "4" : "?",
+                "5" : "?",
+                "6" : "?",
+                "7" : "?",
+                "8" : "?",
+                "9" : "?",
+                "10" : "?"
+            }
+        }
+    ]
+}

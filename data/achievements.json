@@ -1,0 +1,53 @@
+[
+    
+    {
+        "name" : "First Step", 
+        "description" : "Pick your first 2 courses", 
+        "status" : false,
+        "exp" : 100,
+        "coin" : 25
+    },
+    {
+        "name" : "Explorer", 
+        "description" : "Unlocked 5 courses", 
+        "status" : false,
+        "exp" : 200,
+        "coin" : 50
+    },
+    {
+        "name" : "Trailblazer", 
+        "description" : "Unlocked 10 courses", 
+        "status" : false,
+        "exp" : 400,
+        "coin" : 100
+    },
+    {
+        "name" : "Freshman", 
+        "description" : "Reach level 1", 
+        "status" : false,
+        "exp" : 100,
+        "coin" : 25
+    },
+    {
+        "name" : "Expert", 
+        "description" : "Reach level 10", 
+        "status" : false,
+        "exp" : 500,
+        "coin" : 125
+    },
+    {
+        "name" : "Professor", 
+        "description" : "Reach level 25", 
+        "status" : false,
+        "exp" : 2000,
+        "coin" : 500
+    },
+    {
+        "name" : "Perfectionist", 
+        "description" : "Achieve a perfect score on a quiz", 
+        "status" : false,
+        "exp" : 100,
+        "coin" : 25
+    }
+    
+]

@@ -1,0 +1,67 @@
+////////////////////////
+Course = {
+    name : String,
+    sections : section[]
+}
+
+section = {
+    title : String,
+    contents : content[],
+    quizzes : quiz[]
+    quizAnswers : quizAnswer[]  
+}
+
+content = {
+    type : String,
+    content : String,
+    isComplete : Boolean
+}
+
+quiz = {
+    number : Number,
+    options : quizOption[]
+}
+
+quizOption = {
+    option : String,
+    answer : String
+}
+
+quizAnswer = {
+    number : Number,
+    answer : String
+}
+
+///////////////////////
+
+User = {
+    name : String,
+    username : String,
+    email : String,
+    image : String,
+    password : String,
+    avatar : String,
+    createdAt : Date,
+    updatedAt : Date
+}
+
+UserStat = {
+    userId : ID,
+    stats : {
+        exp : Number, 
+        coin : Number,
+        courseUnlocked : Number,
+        quizAnswered : Number
+    }
+}
+
+UserAchievement = {
+    userId : ID,
+    achievements : achievement[]
+}
+
+achievement = {
+    name : String,
+    description : String,
+    status : Boolean
+}

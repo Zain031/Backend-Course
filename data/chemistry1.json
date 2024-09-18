@@ -1,0 +1,648 @@
+{
+    "name": "Kimia I",
+    "cost": 1000,
+    "sections": [
+        {
+            "title": "Kimia Dasar",
+            "content": [
+                {
+                    "type": "reading",
+                    "content": "Kimia dasar adalah cabang ilmu kimia yang mempelajari prinsip-prinsip dasar dari materi, struktur atom, reaksi kimia, dan sifat-sifat zat. Salah satu konsep dasar dalam kimia adalah atom, yaitu unit dasar dari segala materi yang terdiri dari inti yang bermuatan positif (proton) dan neutron yang netral, dikelilingi oleh elektron yang bermuatan negatif. Jumlah proton dalam inti atom menentukan identitas unsur kimia tersebut dalam Tabel Periodik. Selain atom, molekul juga merupakan unit penting dalam kimia dasar. Molekul terbentuk dari ikatan antara atom melalui pertukaran atau pembagian elektron, yang dapat terjadi melalui ikatan kovalen atau ikatan ionik. Ikatan kovalen terjadi ketika dua atom berbagi pasangan elektron, sementara ikatan ionik terjadi ketika satu atom memberikan elektron kepada atom lain. Reaksi kimia adalah transformasi zat-zat menjadi zat lain melalui pemecahan dan pembentukan ikatan kimia. Contoh reaksi kimia dasar adalah reaksi pembakaran, di mana suatu zat bereaksi dengan oksigen untuk menghasilkan energi, karbon dioksida, dan air. Setiap reaksi kimia dapat ditulis dalam bentuk persamaan kimia, yang menunjukkan reagen (zat yang bereaksi) dan produk (hasil reaksi).",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "https://www.youtube.com/watch?v=Rd4a1X3B61w",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "https://www.youtube.com/watch?v=IFKnq9QM6_A",
+                    "isComplete": false
+                }
+            ],
+            "quiz": [
+                {
+                    "number": 1,
+                    "questions": "Apa yang menjadi unit dasar dari segala materi dalam kimia?",
+                    "options": [
+                        {
+                            "A": "Molekul"
+                        },
+                        {
+                            "B": "Proton"
+                        },
+                        {
+                            "C": "Elektron"
+                        },
+                        {
+                            "D": "Atom"
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "questions": "Apa yang menentukan identitas unsur kimia dalam Tabel Periodik?",
+                    "options": [
+                        {
+                            "A": "Jumlah neutron dalam inti atom"
+                        },
+                        {
+                            "B": "Jumlah elektron dalam inti atom"
+                        },
+                        {
+                            "C": "Jumlah proton dalam inti atom"
+                        },
+                        {
+                            "D": "Jumlah molekul dalam atom"
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "questions": "Ikatan kimia di mana dua atom berbagi pasangan elektron disebut…",
+                    "options": [
+                        {
+                            "A": "Ikatan ionik"
+                        },
+                        {
+                            "B": "Ikatan kovalen"
+                        },
+                        {
+                            "C": "Ikatan logam"
+                        },
+                        {
+                            "D": "Ikatan hidrogen"
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "questions": "Apa yang terbentuk ketika satu atom memberikan elektron kepada atom lain?",
+                    "options": [
+                        {
+                            "A": "Ikatan kovalen"
+                        },
+                        {
+                            "B": "Molekul"
+                        },
+                        {
+                            "C": "Ion positif dan ion negatif"
+                        },
+                        {
+                            "D": "Ikatan ionik"
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "questions": "Reaksi kimia adalah transformasi zat-zat menjadi zat lain melalui…",
+                    "options": [
+                        {
+                            "A": "Pemecahan ikatan kimia"
+                        },
+                        {
+                            "B": "Pembentukan ikatan kimia"
+                        },
+                        {
+                            "C": "Pertukaran elektron"
+                        },
+                        {
+                            "D": "Semua jawaban benar"
+                        }
+                    ]
+                },
+                {
+                    "number": 6,
+                    "questions": "Apa yang terjadi dalam reaksi pembakaran?",
+                    "options": [
+                        {
+                            "A": "Zat bereaksi dengan air"
+                        },
+                        {
+                            "B": "Zat bereaksi dengan oksigen"
+                        },
+                        {
+                            "C": "Zat bereaksi dengan asam"
+                        },
+                        {
+                            "D": "Zat bereaksi dengan logam"
+                        }
+                    ]
+                },
+                {
+                    "number": 7,
+                    "questions": "Persamaan kimia digunakan untuk…",
+                    "options": [
+                        {
+                            "A": "Menunjukkan sifat-sifat zat"
+                        },
+                        {
+                            "B": "Menunjukkan reagen dan produk dalam reaksi kimia"
+                        },
+                        {
+                            "C": "Menunjukkan struktur atom"
+                        },
+                        {
+                            "D": "Menunjukkan periode dalam Tabel Periodik"
+                        }
+                    ]
+                },
+                {
+                    "number": 8,
+                    "questions": "Berapa jumlah proton, neutron, dan elektron dalam atom karbon dengan nomor atom 6?",
+                    "options": [
+                        {
+                            "A": "6 proton, 6 neutron, 6 elektron"
+                        },
+                        {
+                            "B": "6 proton, 12 neutron, 6 elektron"
+                        },
+                        {
+                            "C": "6 proton, 6 neutron, 12 elektron"
+                        },
+                        {
+                            "D": "12 proton, 6 neutron, 6 elektron"
+                        }
+                    ]
+                },
+                {
+                    "number": 9,
+                    "questions": "Jika suatu atom kehilangan atau mendapatkan elektron, akan membentuk…",
+                    "options": [
+                        {
+                            "A": "Ion positif atau ion negatif"
+                        },
+                        {
+                            "B": "Isotop"
+                        },
+                        {
+                            "C": "Molekul"
+                        },
+                        {
+                            "D": "Ikatan kovalen"
+                        }
+                    ]
+                },
+                {
+                    "number": 10,
+                    "questions": "Berapa jumlah proton, neutron, dan elektron dalam ion klorida (Cl-)?",
+                    "options": [
+                        {
+                            "A": "17 proton, 18 neutron, 17 elektron"
+                        },
+                        {
+                            "B": "18 proton, 17 neutron, 17 elektron"
+                        },
+                        {
+                            "C": "17 proton, 18 neutron, 18 elektron"
+                        },
+                        {
+                            "D": "18 proton, 17 neutron, 18 elektron"
+                        }
+                    ]
+                }
+            ],
+            "quizAnswer": {
+                "1": "D. Atom",
+                "2": "C. Jumlah proton dalam inti atom",
+                "3": "B. Ikatan kovalen",
+                "4": "D. Ikatan ionik",
+                "5": "D. Semua jawaban benar",
+                "6": "B. Zat bereaksi dengan oksigen",
+                "7": "B. Menunjukkan reagen dan produk dalam reaksi kimia",
+                "8": "A. 6 proton, 6 neutron, 6 elektron",
+                "9": "A. Ion positif atau ion negatif",
+                "10": "C. 17 proton, 18 neutron, 18 elektron"
+            }
+        },
+        {
+            "title": "Ikatan Kimia",
+            "content": [
+                {
+                    "type": "reading",
+                    "content": "TEXT_CONTENT",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "YOUTUBE_LINK",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "YOUTUBE_LINK",
+                    "isComplete": false
+                }
+            ],
+            "quiz": [
+                {
+                    "number": 1,
+                    "questions": "Apa yang dimaksud dengan ikatan kimia?",
+                    "options": [
+                        {
+                            "A": "Interaksi antara molekul yang berbeda"
+                        },
+                        {
+                            "B": "Daya tarik antara atom dalam suatu molekul atau senyawa"
+                        },
+                        {
+                            "C": "Interaksi antara ion dan elektron"
+                        },
+                        {
+                            "D": "Pertukaran elektron antara dua atom"
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "questions": "Apa yang terjadi dalam ikatan ionik?",
+                    "options": [
+                        {
+                            "A": "Atom-atom berbagi elektron"
+                        },
+                        {
+                            "B": "Atom melepaskan elektron dan membentuk ion"
+                        },
+                        {
+                            "C": "Atom-atom berbagi pasangan elektron"
+                        },
+                        {
+                            "D": "Atom membentuk \"laut elektron\""
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "questions": "Contoh ikatan ionik adalah ikatan antara…",
+                    "options": [
+                        {
+                            "A": "Hidrogen dan oksigen dalam air (H2O)"
+                        },
+                        {
+                            "B": "Natrium (Na) dan klorin (Cl) dalam natrium klorida (NaCl)"
+                        },
+                        {
+                            "C": "Karbon dan hidrogen dalam metana (CH4)"
+                        },
+                        {
+                            "D": "Oksigen dan karbon dioksida (CO2)"
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "questions": "Ikatan kovalen terjadi ketika…",
+                    "options": [
+                        {
+                            "A": "Atom melepaskan elektron"
+                        },
+                        {
+                            "B": "Atom-atom berbagi elektron"
+                        },
+                        {
+                            "C": "Atom membentuk ion"
+                        },
+                        {
+                            "D": "Atom menangkap elektron"
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "questions": "Dalam ikatan kovalen, atom berbagi satu pasangan elektron disebut ikatan…",
+                    "options": [
+                        {
+                            "A": "Tunggal"
+                        },
+                        {
+                            "B": "Ganda"
+                        },
+                        {
+                            "C": "Rangkap tiga"
+                        },
+                        {
+                            "D": "Semua jawaban benar"
+                        }
+                    ]
+                },
+                {
+                    "number": 6,
+                    "questions": "Contoh ikatan kovalen tunggal adalah dalam molekul…",
+                    "options": [
+                        {
+                            "A": "Oksigen (O2)"
+                        },
+                        {
+                            "B": "Hidrogen (H2)"
+                        },
+                        {
+                            "C": "Amonia (NH3)"
+                        },
+                        {
+                            "D": "Karbon dioksida (CO2)"
+                        }
+                    ]
+                },
+                {
+                    "number": 7,
+                    "questions": "Ikatan logam terjadi ketika elektron terbebas bergerak di antara…",
+                    "options": [
+                        {
+                            "A": "Atom-atom nonlogam"
+                        },
+                        {
+                            "B": "Atom-atom logam"
+                        },
+                        {
+                            "C": "Ion-ion positif"
+                        },
+                        {
+                            "D": "Ion-ion negatif"
+                        }
+                    ]
+                },
+                {
+                    "number": 8,
+                    "questions": "Dalam ikatan logam, atom logam saling berbagi elektron dalam…",
+                    "options": [
+                        {
+                            "A": "Ikatan ionik"
+                        },
+                        {
+                            "B": "Ikatan kovalen"
+                        },
+                        {
+                            "C": "Laut elektron"
+                        },
+                        {
+                            "D": "Ikatan hidrogen"
+                        }
+                    ]
+                },
+                {
+                    "number": 9,
+                    "questions": "Contoh ikatan logam dapat ditemukan dalam logam seperti…",
+                    "options": [
+                        {
+                            "A": "Hidrogen"
+                        },
+                        {
+                            "B": "Oksigen"
+                        },
+                        {
+                            "C": "Tembaga"
+                        },
+                        {
+                            "D": "Klorin"
+                        }
+                    ]
+                },
+                {
+                    "number": 10,
+                    "questions": "Apa yang terjadi dalam ikatan kovalen ganda?",
+                    "options": [
+                        {
+                            "A": "Dua pasangan elektron yang dibagi antara dua atom"
+                        },
+                        {
+                            "B": "Satu pasangan elektron yang dibagi antara dua atom"
+                        },
+                        {
+                            "C": "Tiga pasangan elektron yang dibagi antara dua atom"
+                        },
+                        {
+                            "D": "Elektron yang ditransfer dari satu atom ke atom lain"
+                        }
+                    ]
+                }
+            ],
+            "quizAnswer": {
+                "1": "B. Daya tarik antara atom dalam suatu molekul atau senyawa",
+                "2": "B. Atom melepaskan elektron dan membentuk ion",
+                "3": "B. Natrium (Na) dan klorin (Cl) dalam natrium klorida (NaCl)",
+                "4": "B. Atom-atom berbagi elektron",
+                "5": "A. Tunggal",
+                "6": "B. Hidrogen (H2)",
+                "7": "B. Atom-atom logam",
+                "8": "C. \"Laut elektron\"",
+                "9": "C. Tembaga",
+                "10": "A. Dua pasangan elektron yang dibagi antara dua atom"
+            }
+        },
+        {
+            "title": "SECTION_TITLE",
+            "content": [
+                {
+                    "type": "reading",
+                    "content": "TEXT_CONTENT",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "YOUTUBE_LINK",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "YOUTUBE_LINK",
+                    "isComplete": false
+                }
+            ],
+            "quiz": [
+                {
+                    "number": 1,
+                    "questions": "Apa yang dimaksud dengan larutan elektrolit?",
+                    "options": [
+                        {
+                            "A": "Larutan yang tidak dapat menghantarkan arus listrik"
+                        },
+                        {
+                            "B": "Larutan yang terbentuk dari senyawa yang terurai menjadi ion-ion yang bermuatan"
+                        },
+                        {
+                            "C": "Larutan yang terbentuk dari senyawa yang tetap utuh dalam bentuk molekul"
+                        },
+                        {
+                            "D": "Larutan yang terbentuk dari ion-ion yang tidak dapat bergerak dalam larutan"
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "questions": "Contoh larutan elektrolit adalah…",
+                    "options": [
+                        {
+                            "A": "Larutan gula (sukrosa)"
+                        },
+                        {
+                            "B": "Larutan etanol"
+                        },
+                        {
+                            "C": "Larutan natrium klorida (NaCl)"
+                        },
+                        {
+                            "D": "Larutan asam asetat (CH3COOH)"
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "questions": "Apa yang terjadi pada senyawa dalam larutan elektrolit?",
+                    "options": [
+                        {
+                            "A": "Tetap utuh dalam bentuk molekul"
+                        },
+                        {
+                            "B": "Terurai menjadi ion-ion yang bermuatan"
+                        },
+                        {
+                            "C": "Membentuk ikatan kovalen"
+                        },
+                        {
+                            "D": "Menjadi padatan saat larut"
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "questions": "Larutan non-elektrolit tidak dapat menghantarkan arus listrik karena…",
+                    "options": [
+                        {
+                            "A": "Molekulnya tidak terurai"
+                        },
+                        {
+                            "B": "Terbentuk ikatan kovalen"
+                        },
+                        {
+                            "C": "Membentuk padatan saat larut"
+                        },
+                        {
+                            "D": "Mengandung ion-ion yang tidak dapat bergerak"
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "questions": "Contoh larutan non-elektrolit meliputi…",
+                    "options": [
+                        {
+                            "A": "Larutan natrium klorida (NaCl)"
+                        },
+                        {
+                            "B": "Larutan gula (sukrosa)"
+                        },
+                        {
+                            "C": "Larutan asam sulfat (H2SO4)"
+                        },
+                        {
+                            "D": "Larutan kalium hidroksida (KOH)"
+                        }
+                    ]
+                },
+                {
+                    "number": 6,
+                    "questions": "Pada saat larutan elektrolit ditempatkan di antara elektroda, ion-ionnya akan bergerak menuju…",
+                    "options": [
+                        {
+                            "A": "Elektroda negatif (katoda)"
+                        },
+                        {
+                            "B": "Elektroda positif (anoda)"
+                        },
+                        {
+                            "C": "Elektroda netral"
+                        },
+                        {
+                            "D": "Tidak bergerak"
+                        }
+                    ]
+                },
+                {
+                    "number": 7,
+                    "questions": "Ion-ion dalam larutan elektrolit dapat bergerak karena…",
+                    "options": [
+                        {
+                            "A": "Ion-ion memiliki muatan positif"
+                        },
+                        {
+                            "B": "Ion-ion tertarik oleh muatan negatif elektroda"
+                        },
+                        {
+                            "C": "Ion-ion saling menarik satu sama lain"
+                        },
+                        {
+                            "D": "Semua jawaban benar"
+                        }
+                    ]
+                },
+                {
+                    "number": 8,
+                    "questions": "Apa yang terjadi pada senyawa dalam larutan non-elektrolit?",
+                    "options": [
+                        {
+                            "A": "Terurai menjadi ion-ion yang bermuatan"
+                        },
+                        {
+                            "B": "Membentuk ikatan kovalen"
+                        },
+                        {
+                            "C": "Tetap utuh dalam bentuk molekul"
+                        },
+                        {
+                            "D": "Menjadi gas saat larut"
+                        }
+                    ]
+                },
+                {
+                    "number": 9,
+                    "questions": "Larutan etanol (C2H5OH) adalah contoh dari…",
+                    "options": [
+                        {
+                            "A": "Larutan elektrolit"
+                        },
+                        {
+                            "B": "Larutan non-elektrolit"
+                        },
+                        {
+                            "C": "Larutan asam"
+                        },
+                        {
+                            "D": "Larutan basa"
+                        }
+                    ]
+                },
+                {
+                    "number": 10,
+                    "questions": "Ketika larutan elektrolit dihubungkan ke sumber listrik, ion-ionnya akan bergerak menuju…",
+                    "options": [
+                        {
+                            "A": "Sama muatannya"
+                        },
+                        {
+                            "B": "Berlawanan muatannya"
+                        },
+                        {
+                            "C": "Netral"
+                        },
+                        {
+                            "D": "Tidak bergerak"
+                        }
+                    ]
+                }
+            ],
+            "quizAnswer": {
+                "1": "B. Larutan yang terbentuk dari senyawa yang terurai menjadi ion-ion yang bermuatan",
+                "2": "C. Larutan natrium klorida (NaCl)",
+                "3": "B. Terurai menjadi ion-ion yang bermuatan",
+                "4": "A. Molekulnya tidak terurai",
+                "5": "B. Larutan gula (sukrosa)",
+                "6": "A. Elektroda negatif (katoda)",
+                "7": "D. Semua jawaban benar",
+                "8": "C. Tetap utuh dalam bentuk molekul",
+                "9": "B. Larutan non-elektrolit",
+                "10": "B. Berlawanan muatannya"
+            }
+        }
+    ]
+}

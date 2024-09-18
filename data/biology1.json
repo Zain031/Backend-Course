@@ -1,0 +1,651 @@
+{
+    "name": "Biologi I",
+    "cost": 1000,
+    "sections": [
+        {
+            "title": "Intro",
+            "content": [
+                {
+                    "type": "reading",
+                    "content": "Biologi merupakan fondasi utama dalam pemahaman tentang kehidupan dan organisme di sekitar kita. Pada tingkat ini, kita mempelajari konsep-konsep dasar seperti struktur sel, pewarisan sifat, metabolisme, dan interaksi organisme dengan lingkungannya. Salah satu konsep penting dalam biologi dasar adalah sel, unit dasar kehidupan. Setiap organisme hidup terdiri dari satu atau lebih sel, yang memiliki struktur yang kompleks dan berbagai organel di dalamnya. Organel-organel ini, seperti inti sel yang menyimpan materi genetik, mitokondria yang menghasilkan energi, dan ribosom yang bertanggung jawab untuk sintesis protein, bekerja sama untuk menjaga kelangsungan hidup sel dan organisme secara keseluruhan.\nPemahaman tentang pewarisan sifat juga penting dalam biologi dasar. Konsep ini menjelaskan bagaimana sifat-sifat tertentu dari induk dapat diturunkan kepada keturunannya. Pewarisan sifat ini dipelajari melalui studi genetika, di mana gen, bagian dari materi genetik yang terletak di dalam kromosom, bertanggung jawab untuk karakteristik spesifik pada organisme. Melalui proses reproduksi, gen-gen ini dapat diturunkan dari satu generasi ke generasi berikutnya, memastikan kelangsungan jenis organisme.\nSelain itu, biologi dasar juga membahas tentang metabolisme, proses yang melibatkan perubahan energi dan materi dalam sel. Metabolisme mencakup reaksi kimia yang terjadi di dalam sel untuk memecah makanan menjadi energi yang dapat digunakan serta membangun bahan-bahan yang diperlukan untuk pertumbuhan dan fungsi tubuh. Fotosintesis dan respirasi sel adalah dua proses metabolisme penting yang memungkinkan organisme menghasilkan energi dari sumber daya eksternal seperti cahaya matahari dan nutrisi.",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "https://www.youtube.com/watch?v=5KfHxF6Vhps",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "https://www.youtube.com/watch?v=Hmwvj9X4GNY",
+                    "isComplete": false
+                }
+            ],
+            "quiz": [
+                {
+                    "number": 1,
+                    "questions": "Apa yang merupakan unit dasar kehidupan dalam studi biologi?",
+                    "options": [
+                        {
+                            "A": "Gen"
+                        },
+                        {
+                            "B": "Organel"
+                        },
+                        {
+                            "C": "Sel"
+                        },
+                        {
+                            "D": "Membran"
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "questions": "Apa fungsi membran sel dalam sel?",
+                    "options": [
+                        {
+                            "A": "Menghasilkan energi"
+                        },
+                        {
+                            "B": "Membuat protein"
+                        },
+                        {
+                            "C": "Mengatur masuk dan keluarnya zat-zat"
+                        },
+                        {
+                            "D": "Menyimpan informasi genetik"
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "questions": "Organel yang bertanggung jawab atas produksi energi dalam sel disebut...",
+                    "options": [
+                        {
+                            "A": "Ribosom"
+                        },
+                        {
+                            "B": "Mitokondria"
+                        },
+                        {
+                            "C": "Inti sel"
+                        },
+                        {
+                            "D": "Lisosom"
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "questions": "Apa yang menjadi fokus utama dalam studi genetika?",
+                    "options": [
+                        {
+                            "A": "Struktur sel"
+                        },
+                        {
+                            "B": "Pewarisan sifat"
+                        },
+                        {
+                            "C": "Produksi energi"
+                        },
+                        {
+                            "D": "Pembuatan protein"
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "questions": "Apa yang dihasilkan oleh gen dalam sel?",
+                    "options": [
+                        {
+                            "A": "Membran sel"
+                        },
+                        {
+                            "B": "Protein"
+                        },
+                        {
+                            "C": "Organel"
+                        },
+                        {
+                            "D": "Kromosom"
+                        }
+                    ]
+                },
+                {
+                    "number": 6,
+                    "questions": "Siapakah ilmuwan yang memperkenalkan konsep evolusi melalui seleksi alam?",
+                    "options": [
+                        {
+                            "A": "Charles Darwin"
+                        },
+                        {
+                            "B": "Gregor Mendel"
+                        },
+                        {
+                            "C": "Louis Pasteur"
+                        },
+                        {
+                            "D": "Albert Einstein"
+                        }
+                    ]
+                },
+                {
+                    "number": 7,
+                    "questions": "Apa teori yang dijelaskan oleh Charles Darwin dalam \"On the Origin of Species\"?",
+                    "options": [
+                        {
+                            "A": "Teori Genetika"
+                        },
+                        {
+                            "B": "Teori Evolusi"
+                        },
+                        {
+                            "C": "Teori Sel"
+                        },
+                        {
+                            "D": "Teori Klasifikasi"
+                        }
+                    ]
+                },
+                {
+                    "number": 8,
+                    "questions": "Proses evolusi berlangsung melalui...",
+                    "options": [
+                        {
+                            "A": "Seleksi Genetik"
+                        },
+                        {
+                            "B": "Mutasi"
+                        },
+                        {
+                            "C": "Seleksi Alam"
+                        },
+                        {
+                            "D": "Kromosom"
+                        }
+                    ]
+                },
+                {
+                    "number": 9,
+                    "questions": "Apa yang menyebabkan perubahan dalam populasi organisme menurut teori evolusi Darwin?",
+                    "options": [
+                        {
+                            "A": "Mutasi genetik"
+                        },
+                        {
+                            "B": "Seleksi alam"
+                        },
+                        {
+                            "C": "Reproduksi aseksual"
+                        },
+                        {
+                            "D": "Intervensi manusia"
+                        }
+                    ]
+                },
+                {
+                    "number": 10,
+                    "questions": "Struktur biologis yang berada di atas tingkat sel dalam organisme disebut...",
+                    "options": [
+                        {
+                            "A": "Molekul"
+                        },
+                        {
+                            "B": "Jaringan"
+                        },
+                        {
+                            "C": "Organ"
+                        },
+                        {
+                            "D": "Organel"
+                        }
+                    ]
+                }
+            ],
+            "quizAnswer": {
+                "1": "C",
+                "2": "C",
+                "3": "B",
+                "4": "B",
+                "5": "B",
+                "6": "A",
+                "7": "B",
+                "8": "C",
+                "9": "B",
+                "10": "C"
+            },
+            "userScore": 0
+        },
+        {
+            "title": "Metabolisme",
+            "content": [
+                {
+                    "type": "reading",
+                    "content": "Metabolisme adalah serangkaian reaksi kimia yang terjadi dalam organisme untuk mengubah makanan menjadi energi yang dapat digunakan serta membangun bahan-bahan yang diperlukan untuk pertumbuhan dan fungsi tubuh. Proses ini sangat vital bagi kelangsungan hidup setiap organisme, mulai dari organisme mikroskopis hingga mamalia yang kompleks. Terdapat dua jenis utama dari metabolisme: anabolisme dan katabolisme.\nAnabolisme adalah proses membangun molekul kompleks dari molekul-molekul sederhana. Ini melibatkan penggunaan energi untuk membangun struktur baru, seperti pembentukan protein dari asam amino atau sintesis glukosa dari senyawa-senyawa sederhana. Sebagai contoh, saat tumbuhan menggunakan energi matahari dalam fotosintesis, mereka menghasilkan glukosa dan bahan-bahan lain yang diperlukan untuk pertumbuhan mereka sendiri.\nDi sisi lain, katabolisme adalah proses pemecahan molekul kompleks menjadi molekul-molekul sederhana dengan melepaskan energi. Contohnya adalah respirasi sel, di mana molekul glukosa dipecah menjadi energi yang dapat digunakan (ATP) dan karbon dioksida. Katabolisme juga terjadi saat tubuh mengubah protein menjadi asam amino yang kemudian dapat digunakan untuk berbagai fungsi tubuh.\nDalam sel-sel organisme, metabolisme berlangsung melalui serangkaian jalur reaksi kimia yang saling terhubung. Misalnya, produk dari satu jalur reaksi dapat menjadi substrat untuk jalur reaksi lainnya. Hal ini memastikan bahwa tubuh dapat menggunakan nutrisi yang diterima dengan efisien, menghasilkan energi yang diperlukan untuk berbagai fungsi biologis.",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "https://www.youtube.com/watch?v=KwNe9x0eChs",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "https://www.youtube.com/watch?v=ST1UWnenOo0",
+                    "isComplete": false
+                }
+            ],
+            "quiz": [
+                {
+                    "number": 1,
+                    "questions": "Apa yang dimaksud dengan metabolisme?",
+                    "options": [
+                        {
+                            "A": "Proses fotosintesis pada tanaman"
+                        },
+                        {
+                            "B": "Serangkaian reaksi kimia untuk mengubah makanan menjadi energi"
+                        },
+                        {
+                            "C": "Proses reproduksi sel"
+                        },
+                        {
+                            "D": "Pembentukan protein dalam tubuh"
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "questions": "Proses yang termasuk dalam anabolisme adalah…",
+                    "options": [
+                        {
+                            "A": "Pemecahan glukosa menjadi energi"
+                        },
+                        {
+                            "B": "Sintesis protein dari asam amino"
+                        },
+                        {
+                            "C": "Pembentukan ATP dalam sel"
+                        },
+                        {
+                            "D": "Pemecahan molekul kompleks menjadi sederhana"
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "questions": "Apa yang terjadi dalam proses katabolisme?",
+                    "options": [
+                        {
+                            "A": "Pemecahan molekul kompleks menjadi sederhana dengan melepaskan energi"
+                        },
+                        {
+                            "B": "Sintesis molekul kompleks dari sederhana"
+                        },
+                        {
+                            "C": "Pembentukan sel baru"
+                        },
+                        {
+                            "D": "Pembentukan glukosa dari karbon dioksida"
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "questions": "Proses yang termasuk dalam katabolisme adalah…",
+                    "options": [
+                        {
+                            "A": "Fotosintesis"
+                        },
+                        {
+                            "B": "Pemecahan glukosa menjadi energi"
+                        },
+                        {
+                            "C": "Sintesis protein"
+                        },
+                        {
+                            "D": "Sintesis glukosa dari asam amino"
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "questions": "Apa yang menjadi hasil dari respirasi sel?",
+                    "options": [
+                        {
+                            "A": "Glukosa"
+                        },
+                        {
+                            "B": "Energi yang dapat digunakan (ATP) dan karbon dioksida"
+                        },
+                        {
+                            "C": "Protein"
+                        },
+                        {
+                            "D": "Asam amino"
+                        }
+                    ]
+                },
+                {
+                    "number": 6,
+                    "questions": "Proses metabolisme di mana molekul glukosa diubah menjadi ATP disebut…",
+                    "options": [
+                        {
+                            "A": "Fotosintesis"
+                        },
+                        {
+                            "B": "Respirasi sel"
+                        },
+                        {
+                            "C": "Sintesis protein"
+                        },
+                        {
+                            "D": "Katabolisme"
+                        }
+                    ]
+                },
+                {
+                    "number": 7,
+                    "questions": "Apa yang merupakan contoh anabolisme?",
+                    "options": [
+                        {
+                            "A": "Pemecahan glukosa menjadi energi"
+                        },
+                        {
+                            "B": "Pemecahan protein menjadi asam amino"
+                        },
+                        {
+                            "C": "Respirasi sel"
+                        },
+                        {
+                            "D": "Pemecahan ATP menjadi ADP"
+                        }
+                    ]
+                },
+                {
+                    "number": 8,
+                    "questions": "Proses metabolisme yang terlibat dalam pembentukan glukosa dari senyawa sederhana disebut…",
+                    "options": [
+                        {
+                            "A": "Katabolisme"
+                        },
+                        {
+                            "B": "Respirasi sel"
+                        },
+                        {
+                            "C": "Anabolisme"
+                        },
+                        {
+                            "D": "Fotosintesis"
+                        }
+                    ]
+                },
+                {
+                    "number": 9,
+                    "questions": "Apa yang terjadi selama fotosintesis?",
+                    "options": [
+                        {
+                            "A": "Glukosa diubah menjadi energi"
+                        },
+                        {
+                            "B": "Energi matahari diubah menjadi ATP"
+                        },
+                        {
+                            "C": "Karbon dioksida diubah menjadi oksigen dan glukosa"
+                        },
+                        {
+                            "D": "Asam amino diubah menjadi protein"
+                        }
+                    ]
+                },
+                {
+                    "number": 10,
+                    "questions": "Dalam sel-sel organisme, produk dari satu jalur reaksi sering menjadi…",
+                    "options": [
+                        {
+                            "A": "Energi yang dapat digunakan"
+                        },
+                        {
+                            "B": "Substrat untuk jalur reaksi lainnya"
+                        },
+                        {
+                            "C": "Glukosa"
+                        },
+                        {
+                            "D": "Protein"
+                        }
+                    ]
+                }
+            ],
+            "quizAnswer": {
+                "1": "B",
+                "2": "B",
+                "3": "A",
+                "4": "B",
+                "5": "B",
+                "6": "B",
+                "7": "B",
+                "8": "C",
+                "9": "C",
+                "10": "B"
+            },
+            "userScore": 0
+        },
+        {
+            "title": "Ekosistem",
+            "content": [
+                {
+                    "type": "reading",
+                    "content": "Ekosistem adalah suatu sistem kompleks yang terdiri dari interaksi antara makhluk hidup (organisme) dan lingkungannya yang tidak hidup (abiotik), seperti tanah, air, udara, dan faktor-faktor lainnya. Dalam ekosistem, organisme-organisme tersebut saling bergantung satu sama lain dalam lingkungan tempat mereka tinggal. Konsep dasar ekosistem adalah bahwa semua organisme dalam suatu wilayah tertentu, beserta faktor lingkungan fisiknya, saling memengaruhi dan berkontribusi terhadap keseimbangan ekologis.\nDi dalam ekosistem, terdapat berbagai level trofik yang menunjukkan posisi organisme dalam rantai makanan. Produsen, seperti tumbuhan dan alga, berada di level pertama dalam rantai makanan karena mereka mampu menghasilkan makanan sendiri melalui fotosintesis. Kemudian, konsumen primer, seperti hewan herbivora, mengonsumsi produsen sebagai sumber makanan utama mereka. Konsumen sekunder dan konsumen tersier, seperti hewan karnivora atau omnivora, berada di level selanjutnya dalam rantai makanan. Pada setiap level trofik ini, energi dan nutrisi dipindahkan dari satu organisme ke organisme lainnya.",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "https://www.youtube.com/watch?v=A495e31cDdE",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "https://www.youtube.com/watch?v=OfV3VNgjpvw",
+                    "isComplete": false
+                }
+            ],
+            "quiz": [
+                {
+                    "number": 1,
+                    "questions": "Apa yang dimaksud dengan ekosistem?",
+                    "options": [
+                        {
+                            "A": "Suatu komunitas organisme yang saling bergantung satu sama lain"
+                        },
+                        {
+                            "B": "Lingkungan fisik yang tidak hidup"
+                        },
+                        {
+                            "C": "Interaksi antara organisme dan lingkungannya"
+                        },
+                        {
+                            "D": "Level trofik dalam rantai makanan"
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "questions": "Organisme yang mampu menghasilkan makanan sendiri melalui fotosintesis disebut…",
+                    "options": [
+                        {
+                            "A": "Konsumen"
+                        },
+                        {
+                            "B": "Produsen"
+                        },
+                        {
+                            "C": "Dekomposer"
+                        },
+                        {
+                            "D": "Konsumen primer"
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "questions": "Level trofik yang berada di atas produsen dalam rantai makanan disebut…",
+                    "options": [
+                        {
+                            "A": "Konsumen primer"
+                        },
+                        {
+                            "B": "Konsumen sekunder"
+                        },
+                        {
+                            "C": "Konsumen tersier"
+                        },
+                        {
+                            "D": "Dekomposer"
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "questions": "Apa peran konsumen primer dalam ekosistem?",
+                    "options": [
+                        {
+                            "A": "Mengonsumsi produsen"
+                        },
+                        {
+                            "B": "Mengonsumsi konsumen sekunder"
+                        },
+                        {
+                            "C": "Mengurai sisa-sisa organisme mati"
+                        },
+                        {
+                            "D": "Menghasilkan makanan melalui fotosintesis"
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "questions": "Apa yang dimaksud dengan siklus materi dalam ekosistem?",
+                    "options": [
+                        {
+                            "A": "Interaksi antara organisme dalam ekosistem"
+                        },
+                        {
+                            "B": "Pemindahan energi dari satu organisme ke organisme lainnya"
+                        },
+                        {
+                            "C": "Perpindahan bahan penting seperti karbon dan nitrogen"
+                        },
+                        {
+                            "D": "Level trofik dalam rantai makanan"
+                        }
+                    ]
+                },
+                {
+                    "number": 6,
+                    "questions": "Hewan yang menduduki level trofik terakhir dalam rantai makanan disebut…",
+                    "options": [
+                        {
+                            "A": "Produsen"
+                        },
+                        {
+                            "B": "Konsumen primer"
+                        },
+                        {
+                            "C": "Konsumen sekunder"
+                        },
+                        {
+                            "D": "Konsumen tersier"
+                        }
+                    ]
+                },
+                {
+                    "number": 7,
+                    "questions": "Apa peran dekomposer dalam ekosistem?",
+                    "options": [
+                        {
+                            "A": "Mengonsumsi produsen"
+                        },
+                        {
+                            "B": "Menghasilkan makanan melalui fotosintesis"
+                        },
+                        {
+                            "C": "Mengurai sisa-sisa organisme mati menjadi nutrisi kembali"
+                        },
+                        {
+                            "D": "Menjadi mangsa bagi konsumen primer"
+                        }
+                    ]
+                },
+                {
+                    "number": 8,
+                    "questions": "Siklus yang mengatur perpindahan karbon antara organisme hidup dan lingkungan disebut…",
+                    "options": [
+                        {
+                            "A": "Siklus Air"
+                        },
+                        {
+                            "B": "Siklus Karbon"
+                        },
+                        {
+                            "C": "Siklus Nitrogen"
+                        },
+                        {
+                            "D": "Siklus Hidrologi"
+                        }
+                    ]
+                },
+                {
+                    "number": 9,
+                    "questions": "Apa yang menjadi produsen dalam ekosistem hutan?",
+                    "options": [
+                        {
+                            "A": "Rumput"
+                        },
+                        {
+                            "B": "Pohon"
+                        },
+                        {
+                            "C": "Alga"
+                        },
+                        {
+                            "D": "Jamur"
+                        }
+                    ]
+                },
+                {
+                    "number": 10,
+                    "questions": "Interaksi antara predator dan mangsa merupakan contoh dari…",
+                    "options": [
+                        {
+                            "A": "Kompetisi"
+                        },
+                        {
+                            "B": "Simbiosis"
+                        },
+                        {
+                            "C": "Predator-prey"
+                        },
+                        {
+                            "D": "Dekomposisi"
+                        }
+                    ]
+                }
+            ],
+            "quizAnswer": {
+                "1": "C",
+                "2": "B",
+                "3": "A",
+                "4": "A",
+                "5": "C",
+                "6": "D",
+                "7": "C",
+                "8": "B",
+                "9": "B",
+                "10": "C"
+            },
+            "userScore": 0
+        }
+    ]
+}

@@ -1,0 +1,651 @@
+{
+    "name": "Ekonomi I",
+    "cost": 1000,
+    "sections": [
+        {
+            "title": "Intro",
+            "content": [
+                {
+                    "type": "reading",
+                    "content": "Ekonomi adalah ilmu sosial yang mempelajari bagaimana individu, kelompok, dan masyarakat mengalokasikan sumber daya yang terbatas untuk memenuhi kebutuhan dan keinginan mereka. Ilmu ekonomi melibatkan analisis tentang produksi, distribusi, dan konsumsi barang dan jasa.Dalam ekonomi, terdapat beberapa konsep dasar yang penting untuk dipahami, antara lain:Penawaran dan Permintaan: Konsep ini menjelaskan bagaimana harga suatu barang atau jasa ditentukan oleh interaksi antara penawaran dari produsen dan permintaan dari konsumen. Ketika penawaran suatu barang meningkat sementara permintaan tetap, maka harga barang tersebut cenderung turun, dan sebaliknya.Hukum Permintaan dan Penawaran: Hukum permintaan menyatakan bahwa semakin tinggi harga suatu barang, maka semakin rendah jumlah barang yang diminta. Sebaliknya, hukum penawaran menyatakan bahwa semakin tinggi harga suatu barang, maka semakin tinggi jumlah barang yang ditawarkan oleh produsen.Pertumbuhan Ekonomi: Pertumbuhan ekonomi merupakan peningkatan jumlah barang dan jasa yang diproduksi dalam suatu negara. Hal ini sering diukur dengan menggunakan Produk Domestik Bruto (PDB), yang merupakan total nilai semua barang dan jasa yang dihasilkan dalam suatu negara dalam satu periode waktu tertentu.Dalam kegiatan ekonomi, ada beberapa sistem yang digunakan, seperti ekonomi pasar, ekonomi komando, dan ekonomi campuran. Di ekonomi pasar, keputusan ekonomi dibuat berdasarkan interaksi antara penawaran dan permintaan di pasar bebas. Di ekonomi komando, pemerintah memiliki kontrol penuh atas produksi, distribusi, dan harga barang. Sedangkan ekonomi campuran adalah kombinasi dari kedua sistem tersebut.",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "https://www.youtube.com/watch?v=8JYP_wU1JTU",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "https://www.youtube.com/watch?v=-IvwoqPh1_I",
+                    "isComplete": false
+                }
+            ],
+            "quiz": [
+                {
+                    "number": 1,
+                    "questions": "Apa yang dimaksud dengan ilmu ekonomi?",
+                    "options": [
+                        {
+                            "A": "Ilmu yang mempelajari tentang kebijakan pemerintah"
+                        },
+                        {
+                            "B": "Ilmu yang mempelajari tentang produksi film dan musik"
+                        },
+                        {
+                            "C": "Ilmu sosial yang mempelajari bagaimana sumber daya dikelola"
+                        },
+                        {
+                            "D": "Ilmu yang mempelajari tentang perawatan kesehatan"
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "questions": "Konsep ekonomi yang menjelaskan interaksi antara penawaran dari produsen dan permintaan dari konsumen disebut…",
+                    "options": [
+                        {
+                            "A": "Penjualan"
+                        },
+                        {
+                            "B": "Penawaran dan permintaan"
+                        },
+                        {
+                            "C": "Harga pasar"
+                        },
+                        {
+                            "D": "Produksi dan distribusi"
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "questions": "Hukum permintaan menyatakan bahwa…",
+                    "options": [
+                        {
+                            "A": "Semakin tinggi harga suatu barang, semakin rendah jumlah barang yang diminta"
+                        },
+                        {
+                            "B": "Semakin tinggi harga suatu barang, semakin tinggi jumlah barang yang diminta"
+                        },
+                        {
+                            "C": "Semakin rendah harga suatu barang, semakin tinggi jumlah barang yang diminta"
+                        },
+                        {
+                            "D": "Harga suatu barang tidak berpengaruh terhadap jumlah barang yang diminta"
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "questions": "Hukum penawaran menyatakan bahwa…",
+                    "options": [
+                        {
+                            "A": "Semakin tinggi harga suatu barang, semakin rendah jumlah barang yang ditawarkan"
+                        },
+                        {
+                            "B": "Semakin tinggi harga suatu barang, semakin tinggi jumlah barang yang ditawarkan"
+                        },
+                        {
+                            "C": "Semakin rendah harga suatu barang, semakin tinggi jumlah barang yang ditawarkan"
+                        },
+                        {
+                            "D": "Harga suatu barang tidak berpengaruh terhadap jumlah barang yang ditawarkan"
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "questions": "Produk Domestik Bruto (PDB) mengukur…",
+                    "options": [
+                        {
+                            "A": "Total nilai semua barang dan jasa yang diimpor"
+                        },
+                        {
+                            "B": "Total nilai semua barang dan jasa yang diekspor"
+                        },
+                        {
+                            "C": "Total nilai semua barang dan jasa yang dihasilkan dalam suatu negara"
+                        },
+                        {
+                            "D": "Total nilai semua barang dan jasa yang dikonsumsi dalam suatu negara"
+                        }
+                    ]
+                },
+                {
+                    "number": 6,
+                    "questions": "Ekonomi pasar didasarkan pada…",
+                    "options": [
+                        {
+                            "A": "Kontrol penuh pemerintah terhadap produksi"
+                        },
+                        {
+                            "B": "Interaksi antara penawaran dan permintaan di pasar bebas"
+                        },
+                        {
+                            "C": "Distribusi langsung oleh produsen kepada konsumen"
+                        },
+                        {
+                            "D": "Harga yang ditentukan oleh pemerintah"
+                        }
+                    ]
+                },
+                {
+                    "number": 7,
+                    "questions": "Ekonomi komando didasarkan pada…",
+                    "options": [
+                        {
+                            "A": "Interaksi antara penawaran dan permintaan di pasar bebas"
+                        },
+                        {
+                            "B": "Kontrol penuh pemerintah terhadap produksi"
+                        },
+                        {
+                            "C": "Distribusi langsung oleh produsen kepada konsumen"
+                        },
+                        {
+                            "D": "Harga yang ditentukan oleh pemerintah"
+                        }
+                    ]
+                },
+                {
+                    "number": 8,
+                    "questions": "Ekonomi campuran adalah kombinasi dari…",
+                    "options": [
+                        {
+                            "A": "Ekonomi pasar dan ekonomi komando"
+                        },
+                        {
+                            "B": "Ekonomi pasar dan ekonomi tradisional"
+                        },
+                        {
+                            "C": "Ekonomi komando dan ekonomi tradisional"
+                        },
+                        {
+                            "D": "Ekonomi pasar dan ekonomi global"
+                        }
+                    ]
+                },
+                {
+                    "number": 9,
+                    "questions": "Pertumbuhan ekonomi diukur dengan menggunakan…",
+                    "options": [
+                        {
+                            "A": "Total upah yang diterima oleh pekerja"
+                        },
+                        {
+                            "B": "Total keuntungan perusahaan"
+                        },
+                        {
+                            "C": "Produk Domestik Bruto (PDB)"
+                        },
+                        {
+                            "D": "Pendapatan per kapita"
+                        }
+                    ]
+                },
+                {
+                    "number": 10,
+                    "questions": "Jika harga suatu barang naik sedangkan jumlah barang yang terjual turun, hal ini terjadi karena…",
+                    "options": [
+                        {
+                            "A": "Permintaan meningkat"
+                        },
+                        {
+                            "B": "Penawaran meningkat"
+                        },
+                        {
+                            "C": "Permintaan turun"
+                        },
+                        {
+                            "D": "Penawaran turun"
+                        }
+                    ]
+                }
+            ],
+            "quizAnswer": {
+                "1": "C",
+                "2": "B",
+                "3": "A",
+                "4": "B",
+                "5": "C",
+                "6": "B",
+                "7": "B",
+                "8": "A",
+                "9": "C",
+                "10": "C"
+            },
+            "userScore": 0
+        },
+        {
+            "title": "Perpajakan",
+            "content": [
+                {
+                    "type": "reading",
+                    "content": "Perpajakan merupakan salah satu instrumen utama yang digunakan oleh pemerintah dalam mengumpulkan dana untuk pembiayaan berbagai kegiatan dan program yang diperlukan oleh masyarakat. Tujuan utama dari sistem perpajakan adalah untuk mendapatkan sumber pendapatan bagi pemerintah guna menyediakan layanan publik, infrastruktur, pendidikan, kesehatan, keamanan, dan berbagai program sosial lainnya.Ada berbagai jenis pajak yang dikenakan oleh pemerintah, tergantung pada sumber pendapatan atau transaksi yang dikenai pajak. Beberapa jenis pajak yang umum dikenal antara lain Pajak Penghasilan (PPh), Pajak Pertambahan Nilai (PPN), Pajak Bumi dan Bangunan (PBB), dan Pajak Penjualan atas Barang Mewah (PPnBM).Pajak Penghasilan (PPh) adalah pajak yang dikenakan atas penghasilan yang diterima oleh individu atau badan usaha. PPh ini dibayarkan oleh warga negara berdasarkan penghasilan yang diperoleh dari berbagai sumber seperti gaji, usaha, investasi, dan lain sebagainya.Pajak Pertambahan Nilai (PPN) adalah pajak yang dikenakan atas penjualan barang dan jasa. PPN ini dikenakan pada setiap tahap produksi dan distribusi barang dan jasa sehingga harga akhir yang dibayarkan konsumen sudah termasuk pajak.Pajak Bumi dan Bangunan (PBB) adalah pajak yang dikenakan atas kepemilikan properti berupa tanah dan bangunan. Besarnya PBB biasanya ditentukan berdasarkan nilai properti tersebut.Pemerintah dapat memberikan insentif pajak sebagai salah satu upaya untuk mendorong investasi, pengembangan industri tertentu, atau kegiatan ekonomi lainnya. Insentif-insentif ini dapat berupa pengurangan tarif pajak, penghapusan pajak tertentu, atau keringanan pajak lainnya.",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "https://www.youtube.com/watch?v=L8zPRF3JsE4",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "https://www.youtube.com/watch?v=NuLlNAdrom4",
+                    "isComplete": false
+                }
+            ],
+            "quiz": [
+                {
+                    "number": 1,
+                    "questions": "Apa yang dimaksud dengan ilmu ekonomi?",
+                    "options": [
+                        {
+                            "A": "Ilmu yang mempelajari tentang kebijakan pemerintah"
+                        },
+                        {
+                            "B": "Ilmu yang mempelajari tentang produksi film dan musik"
+                        },
+                        {
+                            "C": "Ilmu sosial yang mempelajari bagaimana sumber daya dikelola"
+                        },
+                        {
+                            "D": "Ilmu yang mempelajari tentang perawatan kesehatan"
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "questions": "Konsep ekonomi yang menjelaskan interaksi antara penawaran dari produsen dan permintaan dari konsumen disebut…",
+                    "options": [
+                        {
+                            "A": "Penjualan"
+                        },
+                        {
+                            "B": "Penawaran dan permintaan"
+                        },
+                        {
+                            "C": "Harga pasar"
+                        },
+                        {
+                            "D": "Produksi dan distribusi"
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "questions": "Hukum permintaan menyatakan bahwa…",
+                    "options": [
+                        {
+                            "A": "Semakin tinggi harga suatu barang, semakin rendah jumlah barang yang diminta"
+                        },
+                        {
+                            "B": "Semakin tinggi harga suatu barang, semakin tinggi jumlah barang yang diminta"
+                        },
+                        {
+                            "C": "Semakin rendah harga suatu barang, semakin tinggi jumlah barang yang diminta"
+                        },
+                        {
+                            "D": "Harga suatu barang tidak berpengaruh terhadap jumlah barang yang diminta"
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "questions": "Hukum penawaran menyatakan bahwa…",
+                    "options": [
+                        {
+                            "A": "Semakin tinggi harga suatu barang, semakin rendah jumlah barang yang ditawarkan"
+                        },
+                        {
+                            "B": "Semakin tinggi harga suatu barang, semakin tinggi jumlah barang yang ditawarkan"
+                        },
+                        {
+                            "C": "Semakin rendah harga suatu barang, semakin tinggi jumlah barang yang ditawarkan"
+                        },
+                        {
+                            "D": "Harga suatu barang tidak berpengaruh terhadap jumlah barang yang ditawarkan"
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "questions": "Produk Domestik Bruto (PDB) mengukur…",
+                    "options": [
+                        {
+                            "A": "Total nilai semua barang dan jasa yang diimpor"
+                        },
+                        {
+                            "B": "Total nilai semua barang dan jasa yang diekspor"
+                        },
+                        {
+                            "C": "Total nilai semua barang dan jasa yang dihasilkan dalam suatu negara"
+                        },
+                        {
+                            "D": "Total nilai semua barang dan jasa yang dikonsumsi dalam suatu negara"
+                        }
+                    ]
+                },
+                {
+                    "number": 6,
+                    "questions": "Ekonomi pasar didasarkan pada…",
+                    "options": [
+                        {
+                            "A": "Kontrol penuh pemerintah terhadap produksi"
+                        },
+                        {
+                            "B": "Interaksi antara penawaran dan permintaan di pasar bebas"
+                        },
+                        {
+                            "C": "Distribusi langsung oleh produsen kepada konsumen"
+                        },
+                        {
+                            "D": "Harga yang ditentukan oleh pemerintah"
+                        }
+                    ]
+                },
+                {
+                    "number": 7,
+                    "questions": "Ekonomi komando didasarkan pada…",
+                    "options": [
+                        {
+                            "A": "Interaksi antara penawaran dan permintaan di pasar bebas"
+                        },
+                        {
+                            "B": "Kontrol penuh pemerintah terhadap produksi"
+                        },
+                        {
+                            "C": "Distribusi langsung oleh produsen kepada konsumen"
+                        },
+                        {
+                            "D": "Harga yang ditentukan oleh pemerintah"
+                        }
+                    ]
+                },
+                {
+                    "number": 8,
+                    "questions": "Ekonomi campuran adalah kombinasi dari…",
+                    "options": [
+                        {
+                            "A": "Ekonomi pasar dan ekonomi komando"
+                        },
+                        {
+                            "B": "Ekonomi pasar dan ekonomi tradisional"
+                        },
+                        {
+                            "C": "Ekonomi komando dan ekonomi tradisional"
+                        },
+                        {
+                            "D": "Ekonomi pasar dan ekonomi global"
+                        }
+                    ]
+                },
+                {
+                    "number": 9,
+                    "questions": "Pertumbuhan ekonomi diukur dengan menggunakan…",
+                    "options": [
+                        {
+                            "A": "Total upah yang diterima oleh pekerja"
+                        },
+                        {
+                            "B": "Total keuntungan perusahaan"
+                        },
+                        {
+                            "C": "Produk Domestik Bruto (PDB)"
+                        },
+                        {
+                            "D": "Pendapatan per kapita"
+                        }
+                    ]
+                },
+                {
+                    "number": 10,
+                    "questions": "Jika harga suatu barang naik sedangkan jumlah barang yang terjual turun, hal ini terjadi karena…",
+                    "options": [
+                        {
+                            "A": "Permintaan meningkat"
+                        },
+                        {
+                            "B": "Penawaran meningkat"
+                        },
+                        {
+                            "C": "Permintaan turun"
+                        },
+                        {
+                            "D": "Penawaran turun"
+                        }
+                    ]
+                }
+            ],
+            "quizAnswer": {
+                "1": "C",
+                "2": "B",
+                "3": "A",
+                "4": "B",
+                "5": "C",
+                "6": "B",
+                "7": "B",
+                "8": "A",
+                "9": "C",
+                "10": "C"
+            },
+            "userScore": 0
+        },
+        {
+            "title": "Inflasi",
+            "content": [
+                {
+                    "type": "reading",
+                    "content": "Inflasi adalah suatu keadaan di mana harga-harga barang dan jasa secara umum mengalami kenaikan yang terus-menerus dalam jangka waktu tertentu. Hal ini mengakibatkan daya beli uang menurun, sehingga jumlah uang yang diperlukan untuk membeli barang atau jasa yang sama akan lebih besar. Inflasi dapat disebabkan oleh berbagai faktor, seperti permintaan yang tinggi namun pasokan terbatas, biaya produksi yang meningkat, atau pun faktor-faktor eksternal seperti perubahan kebijakan pemerintah atau gejolak ekonomi global.Dampak dari inflasi bisa dirasakan oleh masyarakat luas. Salah satunya adalah tergerusnya daya beli uang, yang berarti dengan uang yang sama, seseorang bisa membeli barang atau jasa yang lebih sedikit. Untuk menjaga inflasi tetap stabil, bank sentral suatu negara dapat mengambil berbagai kebijakan moneter, seperti menaikkan suku bunga untuk mengurangi jumlah uang yang beredar.Dalam mengukur tingkat inflasi, indeks harga konsumen (IHK) sering digunakan. IHK mengukur perubahan harga dari sekumpulan barang dan jasa yang umumnya dikonsumsi oleh rumah tangga. Dengan memperhatikan perubahan IHK, pemerintah dan bank sentral dapat merencanakan kebijakan ekonomi yang tepat.",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "https://www.youtube.com/watch?v=AaR1mPrdbTc",
+                    "isComplete": false
+                },
+                {
+                    "type": "video",
+                    "content": "https://www.youtube.com/watch?v=yahEP620480",
+                    "isComplete": false
+                }
+            ],
+            "quiz": [
+                {
+                    "number": 1,
+                    "questions": "Apa yang dimaksud dengan inflasi?",
+                    "options": [
+                        {
+                            "A": "Penurunan harga barang dan jasa secara umum"
+                        },
+                        {
+                            "B": "Kenaikan harga barang dan jasa secara umum"
+                        },
+                        {
+                            "C": "Stabilitas harga barang dan jasa"
+                        },
+                        {
+                            "D": "Perubahan nilai tukar mata uang"
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "questions": "Faktor apa yang dapat menyebabkan inflasi?",
+                    "options": [
+                        {
+                            "A": "Permintaan yang rendah dan pasokan berlebih"
+                        },
+                        {
+                            "B": "Permintaan yang tinggi namun pasokan terbatas"
+                        },
+                        {
+                            "C": "Biaya produksi yang turun"
+                        },
+                        {
+                            "D": "Penurunan populasi"
+                        }
+                    ]
+                },
+                {
+                    "number": 3,
+                    "questions": "Apa yang terjadi pada daya beli uang saat terjadi inflasi?",
+                    "options": [
+                        {
+                            "A": "Meningkat"
+                        },
+                        {
+                            "B": "Stabil"
+                        },
+                        {
+                            "C": "Menurun"
+                        },
+                        {
+                            "D": "Tidak berubah"
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "questions": "Bagaimana bank sentral dapat mengurangi inflasi?",
+                    "options": [
+                        {
+                            "A": "Menurunkan suku bunga"
+                        },
+                        {
+                            "B": "Menaikkan suku bunga"
+                        },
+                        {
+                            "C": "Mengurangi jumlah uang beredar"
+                        },
+                        {
+                            "D": "Menambah jumlah uang beredar"
+                        }
+                    ]
+                },
+                {
+                    "number": 5,
+                    "questions": "Apa yang dimaksud dengan indeks harga konsumen (IHK)?",
+                    "options": [
+                        {
+                            "A": "Mengukur perubahan harga saham di pasar"
+                        },
+                        {
+                            "B": "Mengukur perubahan harga bahan baku industri"
+                        },
+                        {
+                            "C": "Mengukur perubahan harga dari barang dan jasa yang umumnya dikonsumsi oleh rumah tangga"
+                        },
+                        {
+                            "D": "Mengukur perubahan suku bunga bank"
+                        }
+                    ]
+                },
+                {
+                    "number": 6,
+                    "questions": "Bagaimana cara pemerintah menggunakan indeks harga konsumen (IHK)?",
+                    "options": [
+                        {
+                            "A": "Untuk menaikkan pajak"
+                        },
+                        {
+                            "B": "Untuk mengukur tingkat keuntungan perusahaan"
+                        },
+                        {
+                            "C": "Sebagai acuan dalam menghitung PDB"
+                        },
+                        {
+                            "D": "Sebagai dasar perencanaan kebijakan ekonomi"
+                        }
+                    ]
+                },
+                {
+                    "number": 7,
+                    "questions": "Apa yang terjadi pada harga barang dan jasa jika terjadi deflasi?",
+                    "options": [
+                        {
+                            "A": "Stabil"
+                        },
+                        {
+                            "B": "Turun"
+                        },
+                        {
+                            "C": "Meningkat"
+                        },
+                        {
+                            "D": "Tidak berubah"
+                        }
+                    ]
+                },
+                {
+                    "number": 8,
+                    "questions": "Bagaimana inflasi dapat mempengaruhi keputusan konsumen?",
+                    "options": [
+                        {
+                            "A": "Mendorong untuk menabung lebih banyak"
+                        },
+                        {
+                            "B": "Meningkatkan minat untuk berinvestasi"
+                        },
+                        {
+                            "C": "Mengurangi keinginan untuk berbelanja"
+                        },
+                        {
+                            "D": "Tidak memiliki pengaruh"
+                        }
+                    ]
+                },
+                {
+                    "number": 9,
+                    "questions": "Apa yang dimaksud dengan deflasi?",
+                    "options": [
+                        {
+                            "A": "Kenaikan harga barang dan jasa secara umum"
+                        },
+                        {
+                            "B": "Penurunan harga barang dan jasa secara umum"
+                        },
+                        {
+                            "C": "Stabilitas harga barang dan jasa"
+                        },
+                        {
+                            "D": "Perubahan nilai tukar mata uang"
+                        }
+                    ]
+                },
+                {
+                    "number": 10,
+                    "questions": "Mengapa stabilitas inflasi dianggap penting dalam suatu ekonomi?",
+                    "options": [
+                        {
+                            "A": "Karena meningkatkan daya beli uang"
+                        },
+                        {
+                            "B": "Karena mempengaruhi tingkat suku bunga"
+                        },
+                        {
+                            "C": "Karena mencegah terjadinya deflasi atau hiperinflasi yang merugikan"
+                        },
+                        {
+                            "D": "Karena menjamin keuntungan bagi perusahaan"
+                        }
+                    ]
+                }
+            ],
+            "quizAnswer": {
+                "1": "B",
+                "2": "B",
+                "3": "C",
+                "4": "B",
+                "5": "C",
+                "6": "D",
+                "7": "B",
+                "8": "C",
+                "9": "B",
+                "10": "C"
+            },
+            "userScore": 0
+        }
+    ]
+}

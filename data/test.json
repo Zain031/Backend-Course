@@ -1,0 +1,48 @@
+{
+    "name" : "Biologi I",
+    "cost" : 1000,
+    "sections" : [
+        {
+            "title" : "Intro 1",
+            "content" : [
+                {
+                    "type" : "reading",
+                    "content" : "Biologi merupakan fondasi utama dalam pemahaman tentang kehidupan dan organisme di sekitar kita. Pada tingkat ini, kita mempelajari konsep-konsep dasar seperti struktur sel, pewarisan sifat, metabolisme, dan interaksi organisme dengan lingkungannya. Salah satu konsep penting dalam biologi dasar adalah sel, unit dasar kehidupan. Setiap organisme hidup terdiri dari satu atau lebih sel, yang memiliki struktur yang kompleks dan berbagai organel di dalamnya. Organel-organel ini, seperti inti sel yang menyimpan materi genetik, mitokondria yang menghasilkan energi, dan ribosom yang bertanggung jawab untuk sintesis protein, bekerja sama untuk menjaga kelangsungan hidup sel dan organisme secara keseluruhan.\nPemahaman tentang pewarisan sifat juga penting dalam biologi dasar. Konsep ini menjelaskan bagaimana sifat-sifat tertentu dari induk dapat diturunkan kepada keturunannya. Pewarisan sifat ini dipelajari melalui studi genetika, di mana gen, bagian dari materi genetik yang terletak di dalam kromosom, bertanggung jawab untuk karakteristik spesifik pada organisme. Melalui proses reproduksi, gen-gen ini dapat diturunkan dari satu generasi ke generasi berikutnya, memastikan kelangsungan jenis organisme.\nSelain itu, biologi dasar juga membahas tentang metabolisme, proses yang melibatkan perubahan energi dan materi dalam sel. Metabolisme mencakup reaksi kimia yang terjadi di dalam sel untuk memecah makanan menjadi energi yang dapat digunakan serta membangun bahan-bahan yang diperlukan untuk pertumbuhan dan fungsi tubuh. Fotosintesis dan respirasi sel adalah dua proses metabolisme penting yang memungkinkan organisme menghasilkan energi dari sumber daya eksternal seperti cahaya matahari dan nutrisi.",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "https://www.youtube.com/watch?v=5KfHxF6Vhps",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "https://www.youtube.com/watch?v=Hmwvj9X4GNY",
+                    "isComplete" : false
+                }
+            ],
+            "userScore" : 0
+        },
+        {
+            "title" : "Intro 2",
+            "content" : [
+                {
+                    "type" : "reading",
+                    "content" : "Biologi merupakan fondasi utama dalam pemahaman tentang kehidupan dan organisme di sekitar kita. Pada tingkat ini, kita mempelajari konsep-konsep dasar seperti struktur sel, pewarisan sifat, metabolisme, dan interaksi organisme dengan lingkungannya. Salah satu konsep penting dalam biologi dasar adalah sel, unit dasar kehidupan. Setiap organisme hidup terdiri dari satu atau lebih sel, yang memiliki struktur yang kompleks dan berbagai organel di dalamnya. Organel-organel ini, seperti inti sel yang menyimpan materi genetik, mitokondria yang menghasilkan energi, dan ribosom yang bertanggung jawab untuk sintesis protein, bekerja sama untuk menjaga kelangsungan hidup sel dan organisme secara keseluruhan.\nPemahaman tentang pewarisan sifat juga penting dalam biologi dasar. Konsep ini menjelaskan bagaimana sifat-sifat tertentu dari induk dapat diturunkan kepada keturunannya. Pewarisan sifat ini dipelajari melalui studi genetika, di mana gen, bagian dari materi genetik yang terletak di dalam kromosom, bertanggung jawab untuk karakteristik spesifik pada organisme. Melalui proses reproduksi, gen-gen ini dapat diturunkan dari satu generasi ke generasi berikutnya, memastikan kelangsungan jenis organisme.\nSelain itu, biologi dasar juga membahas tentang metabolisme, proses yang melibatkan perubahan energi dan materi dalam sel. Metabolisme mencakup reaksi kimia yang terjadi di dalam sel untuk memecah makanan menjadi energi yang dapat digunakan serta membangun bahan-bahan yang diperlukan untuk pertumbuhan dan fungsi tubuh. Fotosintesis dan respirasi sel adalah dua proses metabolisme penting yang memungkinkan organisme menghasilkan energi dari sumber daya eksternal seperti cahaya matahari dan nutrisi.",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "https://www.youtube.com/watch?v=5KfHxF6Vhps",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "https://www.youtube.com/watch?v=Hmwvj9X4GNY",
+                    "isComplete" : false
+                }
+            ],
+            "userScore" : 0
+        }
+    ]
+}

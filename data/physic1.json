@@ -1,0 +1,651 @@
+{
+    "name" : "Fisika I",
+    "cost" : 1000,
+    "sections" : [
+        {
+            "title" : "Fisika Dasar",
+            "content" : [
+                {
+                    "type" : "reading",
+                    "content" : "Fisika dasar merupakan cabang ilmu yang mempelajari prinsip-prinsip dasar tentang sifat-sifat alam semesta, termasuk gerak benda, gaya, energi, dan interaksi antara materi. Salah satu konsep dasar dalam fisika adalah hukum-hukum Newton tentang gerak.\nHukum pertama Newton, juga dikenal sebagai Hukum Inersia, menyatakan bahwa sebuah benda akan tetap dalam keadaan diam atau bergerak lurus beraturan kecuali jika ada gaya eksternal yang bekerja padanya. Artinya, benda akan tetap bergerak dengan kecepatan konstan dalam garis lurus jika gaya total yang bekerja padanya adalah nol.\nHukum kedua Newton mengaitkan percepatan suatu benda dengan gaya total yang bekerja padanya. Hukum ini menyatakan bahwa gaya total yang bekerja pada suatu benda sama dengan massa benda tersebut dikalikan dengan percepatannya. Dengan rumus matematis, hukum ini dapat dituliskan sebagai\nF=ma, di mana\nF adalah gaya yang bekerja,\nm adalah massa benda, dan\na adalah percepatannya.",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "https://www.youtube.com/watch?v=5-ZFOhHQS68",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "https://www.youtube.com/watch?v=CQYELiTtUs8",
+                    "isComplete" : false
+                }
+            ],
+            "quiz" : [
+                {
+                    "number" : 1,
+                    "questions" : "Hukum pertama Newton menyatakan bahwa sebuah benda akan tetap dalam keadaan…",
+                    "options" : [
+                        {
+                            "A" : "Bergerak lurus beraturan"
+                        },
+                        {
+                            "B" : "Diam"
+                        },
+                        {
+                            "C" : "Bergerak dengan percepatan konstan"
+                        },
+                        {
+                            "D" : "Melakukan gerak parabola"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 2,
+                    "questions" : "Energi kinetik adalah energi yang dimiliki oleh benda karena…",
+                    "options" : [
+                        {
+                            "A" : "Posisinya di dalam medan gravitasi"
+                        },
+                        {
+                            "B" : "Kecepatannya"
+                        },
+                        {
+                            "C" : "Massa benda tersebut"
+                        },
+                        {
+                            "D" : "Jaraknya dari pusat rotasi"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 3,
+                    "questions" : "Hukum kekekalan energi menyatakan bahwa energi…",
+                    "options" : [
+                        {
+                            "A" : "Dapat diciptakan dari energi potensial"
+                        },
+                        {
+                            "B" : "Dapat dimusnahkan"
+                        },
+                        {
+                            "C" : "Tidak dapat berubah bentuknya"
+                        },
+                        {
+                            "D" : "Tidak dapat diciptakan atau dimusnahkan, hanya berubah bentuk"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 4,
+                    "questions" : "Gaya adalah pengaruh yang menyebabkan perubahan pada…",
+                    "options" : [
+                        {
+                            "A" : "Massa benda"
+                        },
+                        {
+                            "B" : "Kecepatan benda"
+                        },
+                        {
+                            "C" : "Bentuk benda"
+                        },
+                        {
+                            "D" : "Semua jawaban benar"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 5,
+                    "questions" : "Hukum gravitasi Newton menyatakan bahwa gaya gravitasi antara dua benda bergantung pada…",
+                    "options" : [
+                        {
+                            "A" : "Massa benda-benda tersebut"
+                        },
+                        {
+                            "B" : "Jarak di antara benda-benda tersebut"
+                        },
+                        {
+                            "C" : "Kecepatan benda-benda tersebut"
+                        },
+                        {
+                            "D" : "Ukuran benda-benda tersebut"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 6,
+                    "questions" : "Energi potensial yang dimiliki oleh benda terkait dengan…",
+                    "options" : [
+                        {
+                            "A" : "Kecepatannya"
+                        },
+                        {
+                            "B" : "Massa benda"
+                        },
+                        {
+                            "C" : "Posisi benda"
+                        },
+                        {
+                            "D" : "Jarak benda dari pusat rotasi"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 7,
+                    "questions" : "Hukum Newton yang mengatakan bahwa gaya total yang bekerja pada benda adalah sama dengan massa benda dikalikan percepatannya disebut…",
+                    "options" : [
+                        {
+                            "A" : "Hukum Pertama Newton"
+                        },
+                        {
+                            "B" : "Hukum Kedua Newton"
+                        },
+                        {
+                            "C" : "Hukum Ketiga Newton"
+                        },
+                        {
+                            "D" : "Hukum Gravitasi Newton"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 8,
+                    "questions" : "Jenis energi yang dimiliki oleh benda yang bergerak disebut…",
+                    "options" : [
+                        {
+                            "A" : "Energi Kinetik"
+                        },
+                        {
+                            "B" : "Energi Potensial"
+                        },
+                        {
+                            "C" : "Energi Termal"
+                        },
+                        {
+                            "D" : "Energi Listrik"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 9,
+                    "questions" : "Fungsi dari gaya elektromagnetik adalah…",
+                    "options" : [
+                        {
+                            "A" : "Menarik benda-benda ke bawah"
+                        },
+                        {
+                            "B" : "Menyebabkan gerakan rotasi pada benda"
+                        },
+                        {
+                            "C" : "Menyebabkan benda-benda listrik menempel"
+                        },
+                        {
+                            "D" : "Menyebabkan interaksi antara partikel bermuatan"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 10,
+                    "questions" : "Hukum Newton tentang gerak menyatakan bahwa percepatan benda sebanding dengan…",
+                    "options" : [
+                        {
+                            "A" : "Massa benda"
+                        },
+                        {
+                            "B" : "Gaya total yang bekerja pada benda"
+                        },
+                        {
+                            "C" : "Kecepatan benda"
+                        },
+                        {
+                            "D" : "Perubahan waktu"
+                        }
+                    ] 
+                }
+            ],
+            "quizAnswer" : {
+                "1" : "B",
+                "2" : "B",
+                "3" : "D",
+                "4" : "D",
+                "5" : "A",
+                "6" : "C",
+                "7" : "B",
+                "8" : "A",
+                "9" : "D",
+                "10" : "B"
+            }, 
+            "userScore" : 0
+        },
+        {
+            "title" : "Listrik Statis",
+            "content" : [ 
+                {
+                    "type" : "reading",
+                    "content" : "Listrik statis adalah fenomena di mana muatan listrik pada suatu benda tetap terkumpul dan tidak mengalir seperti pada listrik arus. Muatan listrik ini bisa positif atau negatif, tergantung pada jenis muatan yang terkumpul.\nMuatan listrik statis terjadi ketika benda-benda bergesekan satu sama lain, sehingga terjadi pemindahan elektron antara benda-benda tersebut. Ketika dua benda bergesekan, elektron dapat dipindahkan dari satu benda ke benda lainnya. Benda yang kehilangan elektron akan memiliki muatan positif, sedangkan benda yang menerima elektron akan memiliki muatan negatif.\nMuatan listrik statis juga dapat terbentuk melalui induksi. Induksi adalah proses di mana muatan listrik pada suatu benda dipengaruhi oleh benda lain tanpa kontak langsung. Misalnya, jika sebuah benda bermuatan didekatkan ke sebuah benda netral, muatan benda netral akan dipindahkan sehingga ujung yang berdekatan dengan benda bermuatan akan memiliki muatan yang berlawanan.\nSalah satu contoh fenomena listrik statis yang umum adalah kain yang digosokkan dengan balon karet. Ketika kain digosokkan ke balon, elektron akan dipindahkan dari kain ke balon, menyebabkan balon memiliki muatan negatif dan kain memiliki muatan positif.",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "https://www.youtube.com/watch?v=NXMgvrS8Gr8&list=PLbKSbFnKYVY1_ZXyK37Y9KcDtRxUZR9MD",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "https://www.youtube.com/watch?v=Sn5CwAODVdI&list=PLbKSbFnKYVY1_ZXyK37Y9KcDtRxUZR9MD&index=2",
+                    "isComplete" : false
+                }
+            ],
+            "quiz" : [
+                {
+                    "number" : 1,
+                    "questions" : "Apa yang dimaksud dengan listrik statis?",
+                    "options" : [
+                        {
+                            "A" : "Arus listrik yang mengalir terus-menerus"
+                        },
+                        {
+                            "B" : "Muatan listrik yang tetap terkumpul pada suatu benda"
+                        },
+                        {
+                            "C" : "Listrik yang dihasilkan oleh generator"
+                        },
+                        {
+                            "D" : "Induksi elektromagnetik"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 2,
+                    "questions" : "Bagaimana muatan listrik statis dapat terbentuk?",
+                    "options" : [
+                        {
+                            "A" : "Dengan mengalirnya arus listrik"
+                        },
+                        {
+                            "B" : "Melalui proses induksi dan gesekan"
+                        },
+                        {
+                            "C" : "Dengan menekan benda listrik"
+                        },
+                        {
+                            "D" : "Saat benda terkena panas tinggi"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 3,
+                    "questions" : "Apa yang terjadi saat dua benda bergesekan dan terjadi pemindahan elektron?",
+                    "options" : [
+                        {
+                            "A" : "Kedua benda akan menjadi netral"
+                        },
+                        {
+                            "B" : "Kedua benda akan memiliki muatan positif"
+                        },
+                        {
+                            "C" : "Salah satu benda akan memiliki muatan positif dan yang lain negatif"
+                        },
+                        {
+                            "D" : "Tidak ada yang terjadi"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 4,
+                    "questions" : "Bagaimana muatan listrik statis dapat terbentuk melalui induksi?",
+                    "options" : [
+                        {
+                            "A" : "Dengan menyentuh dua benda yang berbeda"
+                        },
+                        {
+                            "B" : "Dengan menekan dua benda yang berbeda"
+                        },
+                        {
+                            "C" : "Dengan mendekatkan benda bermuatan ke benda netral"
+                        },
+                        {
+                            "D" : "Dengan mengalirkan arus listrik ke benda"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 5,
+                    "questions" : "Fenomena listrik statis yang umum terjadi ketika kain digosokkan ke balon adalah contoh dari…",
+                    "options" : [
+                        {
+                            "A" : "Induksi elektromagnetik"
+                        },
+                        {
+                            "B" : "Arus listrik"
+                        },
+                        {
+                            "C" : "Efek fotolistrik"
+                        },
+                        {
+                            "D" : "Muatan listrik statis"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 6,
+                    "questions" : "Benda yang kehilangan elektron akan memiliki muatan…",
+                    "options" : [
+                        {
+                            "A" : "Negatif"
+                        },
+                        {
+                            "B" : "Positif"
+                        },
+                        {
+                            "C" : "Netral"
+                        },
+                        {
+                            "D" : "Terbalik"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 7,
+                    "questions" : "Apa yang terjadi pada muatan benda yang menerima elektron?",
+                    "options" : [
+                        {
+                            "A" : "Muatan menjadi positif"
+                        },
+                        {
+                            "B" : "Muatan menjadi negatif"
+                        },
+                        {
+                            "C" : "Muatan menjadi netral"
+                        },
+                        {
+                            "D" : "Muatan menjadi terbalik"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 8,
+                    "questions" : "Proses induksi listrik dapat terjadi tanpa…",
+                    "options" : [
+                        {
+                            "A" : "Kontak langsung antara benda"
+                        },
+                        {
+                            "B" : "Gesekan antara benda"
+                        },
+                        {
+                            "C" : "Adanya benda bermuatan"
+                        },
+                        {
+                            "D" : "Pengaruh panas"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 9,
+                    "questions" : "Apa yang terjadi pada muatan dua benda yang saling menarik?",
+                    "options" : [
+                        {
+                            "A" : "Keduanya memiliki muatan yang sama"
+                        },
+                        {
+                            "B" : "Keduanya memiliki muatan yang berlawanan"
+                        },
+                        {
+                            "C" : "Keduanya menjadi netral"
+                        },
+                        {
+                            "D" : "Tidak terjadi apa-apa"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 10,
+                    "questions" : "Bagaimana muatan listrik statis dapat dihilangkan?",
+                    "options" : [
+                        {
+                            "A" : "Dengan menyimpan benda dalam air"
+                        },
+                        {
+                            "B" : "Dengan menyentuh benda yang berbeda"
+                        },
+                        {
+                            "C" : "Dengan menggosokkan benda ke permukaan kasar"
+                        },
+                        {
+                            "D" : "Dengan menekan benda"
+                        }
+                    ] 
+                }
+            ],
+            "quizAnswer" : {
+                "1" : "B",
+                "2" : "B",
+                "3" : "C",
+                "4" : "C",
+                "5" : "D",
+                "6" : "B",
+                "7" : "B",
+                "8" : "A",
+                "9" : "B",
+                "10" : "B"
+            }, 
+            "userScore" : 0
+        },
+        {
+            "title" : "Medan Magnet",
+            "content" : [
+                {
+                    "type" : "reading",
+                    "content" : "Medan magnet adalah area di sekitar sebuah magnet di mana gaya magnetiknya dapat dirasakan. Setiap magnet memiliki dua kutub, yaitu kutub utara dan kutub selatan, dan garis-garis medan magnet berjalan dari kutub utara ke kutub selatan. Medan magnet dinyatakan dengan garis-garis medan yang menggambarkan arah dan kekuatan medan magnet di sekitar magnet.\nMedan magnet di sekitar sebuah magnet dapat dirasakan oleh benda-benda yang bersifat magnetik, seperti benda-benda yang terbuat dari besi, nikel, atau kobalt. Ketika sebuah benda magnetik ditempatkan dalam medan magnet, benda tersebut akan merasakan gaya tarik atau dorong tergantung pada polaritasnya.\nSatu sifat penting dari medan magnet adalah bahwa medan magnet tidak pernah ada di ruang hampa, artinya selalu ada benda yang merasakan gaya magnet di dalam medan magnet. Ini berbeda dengan medan listrik yang dapat ada dalam ruang hampa.\nDalam medan magnet, garis-garis medan magnet akan membentuk pola tertentu, misalnya, garis-garis medan magnet akan membentuk pola melingkar di sekitar kawat yang dialiri arus listrik. Fenomena ini dapat dilihat pada kompas, yang menggunakan jarum magnet yang merespons medan magnet bumi untuk menunjukkan arah utara dan selatan.",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "https://www.youtube.com/watch?v=8Y4JSp5U82I&list=PLqwfRVlgGdFCEf4WvyF0UThKTwiFxcVf4",
+                    "isComplete" : false
+                },
+                {
+                    "type" : "video",
+                    "content" : "https://www.youtube.com/watch?v=NnlAI4ZiUrQ&list=PLqwfRVlgGdFCEf4WvyF0UThKTwiFxcVf4&index=2",
+                    "isComplete" : false
+                }
+            ],
+            "quiz" : [
+                {
+                    "number" : 1,
+                    "questions" : "Apa yang dimaksud dengan medan magnet?",
+                    "options" : [
+                        {
+                            "A" : "Area di sekitar sebuah magnet di mana gaya magnetiknya dapat dirasakan"
+                        },
+                        {
+                            "B" : "Area di sekitar sebuah magnet yang tidak memiliki gaya"
+                        },
+                        {
+                            "C" : "Area di sekitar sebuah magnet yang tidak dapat dirasakan oleh benda magnetik"
+                        },
+                        {
+                            "D" : "Area di sekitar sebuah magnet yang hanya terdapat di ruang hampa"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 2,
+                    "questions" : "Medan magnet dinyatakan dengan…",
+                    "options" : [
+                        {
+                            "A" : "Garis-garis gravitasi"
+                        },
+                        {
+                            "B" : "Garis-garis magnet"
+                        },
+                        {
+                            "C" : "Garis-garis elektromagnetik"
+                        },
+                        {
+                            "D" : "Garis-garis elektrik"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 3,
+                    "questions" : "Setiap magnet memiliki dua kutub, yaitu…",
+                    "options" : [
+                        {
+                            "A" : "Kutub utara dan kutub selatan"
+                        },
+                        {
+                            "B" : "Kutub positif dan kutub negatif"
+                        },
+                        {
+                            "C" : "Kutub besar dan kutub kecil"
+                        },
+                        {
+                            "D" : "Kutub kuat dan kutub lemah"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 4,
+                    "questions" : "Medan magnet dinyatakan oleh garis-garis medan yang berjalan dari…",
+                    "options" : [
+                        {
+                            "A" : "Kutub utara ke kutub utara"
+                        },
+                        {
+                            "B" : "Kutub utara ke kutub selatan"
+                        },
+                        {
+                            "C" : "Kutub selatan ke kutub selatan"
+                        },
+                        {
+                            "D" : "Kutub selatan ke kutub utara"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 5,
+                    "questions" : "Benda yang merasakan gaya tarik atau dorong dalam medan magnet disebut…",
+                    "options" : [
+                        {
+                            "A" : "Benda magnetik"
+                        },
+                        {
+                            "B" : "Benda elektromagnetik"
+                        },
+                        {
+                            "C" : "Benda paramagnetik"
+                        },
+                        {
+                            "D" : "Benda ferromagnetik"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 6,
+                    "questions" : "Medan magnet tidak pernah ada di…",
+                    "options" : [
+                        {
+                            "A" : "Benda magnetik"
+                        },
+                        {
+                            "B" : "Benda logam"
+                        },
+                        {
+                            "C" : "Ruang hampa"
+                        },
+                        {
+                            "D" : "Udara"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 7,
+                    "questions" : "Garis-garis medan magnet akan membentuk pola tertentu di sekitar…",
+                    "options" : [
+                        {
+                            "A" : "Benda ferromagnetik"
+                        },
+                        {
+                            "B" : "Benda paramagnetik"
+                        },
+                        {
+                            "C" : "Kawat yang dialiri arus listrik"
+                        },
+                        {
+                            "D" : "Benda yang tidak bersifat magnetik"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 8,
+                    "questions" : "Apa yang terjadi pada jarum kompas ketika ditempatkan di medan magnet bumi?",
+                    "options" : [
+                        {
+                            "A" : "Jarum kompas berputar-putar"
+                        },
+                        {
+                            "B" : "Jarum kompas bergerak lurus ke atas"
+                        },
+                        {
+                            "C" : "Jarum kompas menunjukkan arah utara-selatan"
+                        },
+                        {
+                            "D" : "Jarum kompas tidak bergerak"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 9,
+                    "questions" : "Fenomena medan magnet dapat dilihat dalam kompas, yang menggunakan…",
+                    "options" : [
+                        {
+                            "A" : "Jarum ferromagnetik"
+                        },
+                        {
+                            "B" : "Jarum paramagnetik"
+                        },
+                        {
+                            "C" : "Jarum magnet"
+                        },
+                        {
+                            "D" : "Jarum logam"
+                        }
+                    ] 
+                },
+                {
+                    "number" : 10,
+                    "questions" : "Benda-benda yang terbuat dari apa dapat merasakan medan magnet?",
+                    "options" : [
+                        {
+                            "A" : "Besi, nikel, atau kobalt"
+                        },
+                        {
+                            "B" : "Plastik atau kaca"
+                        },
+                        {
+                            "C" : "Kayu atau kertas"
+                        },
+                        {
+                            "D" : "Semua bahan di atas"
+                        }
+                    ] 
+                }
+            ],
+            "quizAnswer" : {
+                "1" : "A",
+                "2" : "B",
+                "3" : "A",
+                "4" : "B",
+                "5" : "A",
+                "6" : "C",
+                "7" : "C",
+                "8" : "C",
+                "9" : "C",
+                "10" : "A"
+            }, 
+            "userScore" : 0
+        }
+    ]
+}
